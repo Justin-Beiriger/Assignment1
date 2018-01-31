@@ -1,5 +1,6 @@
 # Assignment1
 Justin Beiriger (jwb153@case.edu)
+
 EECS376_HW1
 
 
