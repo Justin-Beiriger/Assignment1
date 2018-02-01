@@ -8,3 +8,6 @@ First, the robot simulator environment must be initialized using the launch comm
 
 ## Running tests/demos
     
+The video file showing the demo can be found at the following link:
+
+https://youtu.be/O9AdLQsAPnM
